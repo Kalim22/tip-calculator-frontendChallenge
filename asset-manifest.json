@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Kalim22/tip-calculator-frontendChallenge/static/css/main.44293372.css",
+    "main.js": "/Kalim22/tip-calculator-frontendChallenge/static/js/main.dd29a5c7.js",
+    "static/media/icon-dollar (copy).svg": "/Kalim22/tip-calculator-frontendChallenge/static/media/icon-dollar (copy).38fee4cd06bb341ed913.svg",
+    "static/media/icon-dollar.svg": "/Kalim22/tip-calculator-frontendChallenge/static/media/icon-dollar.9f9be3534a9295a65957.svg",
+    "static/media/icon-person.svg": "/Kalim22/tip-calculator-frontendChallenge/static/media/icon-person.65bfd20465dd1d2cb58c.svg",
+    "index.html": "/Kalim22/tip-calculator-frontendChallenge/index.html",
+    "main.44293372.css.map": "/Kalim22/tip-calculator-frontendChallenge/static/css/main.44293372.css.map",
+    "main.dd29a5c7.js.map": "/Kalim22/tip-calculator-frontendChallenge/static/js/main.dd29a5c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44293372.css",
+    "static/js/main.dd29a5c7.js"
+  ]
+}
